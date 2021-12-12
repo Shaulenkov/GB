@@ -6,7 +6,7 @@
  class Program
     {
 
-        static int minOfThree (int a, int b, int c)
+        static int min (int a, int b, int c)
         {
             if (a >= b)
             {
@@ -47,7 +47,7 @@
             Console.Write("Введите третье число: ");
             int c = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine( "Минимальным является: " + minOfThree(a,b,c));                   
+            Console.WriteLine( "Минимальным является: " + min(a,b,c));                   
 
             Console.ReadKey();
         }
