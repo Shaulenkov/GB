@@ -1,0 +1,5 @@
+/Users/aleksejsaulenkov/Desktop/ЕГЭ/lesson3/lesson3/lesson3/obj/Debug/net5.0/lesson3.csproj.AssemblyReference.cache
+/Users/aleksejsaulenkov/Desktop/ЕГЭ/lesson3/lesson3/lesson3/obj/Debug/net5.0/lesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsaulenkov/Desktop/ЕГЭ/lesson3/lesson3/lesson3/obj/Debug/net5.0/lesson3.AssemblyInfoInputs.cache
+/Users/aleksejsaulenkov/Desktop/ЕГЭ/lesson3/lesson3/lesson3/obj/Debug/net5.0/lesson3.AssemblyInfo.cs
+/Users/aleksejsaulenkov/Desktop/ЕГЭ/lesson3/lesson3/lesson3/obj/Debug/net5.0/lesson3.csproj.CoreCompileInputs.cache
